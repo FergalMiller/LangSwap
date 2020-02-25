@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LangSwap</string>
+    <string name="tile_label">Hot swap</string>
 </resources>
